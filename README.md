@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter, Loopback, React, Svelte, Vue, NodeJS, Express
+- 🌱 I’m currently learning GO, Flutter, Loopback, React, Svelte, Vue, NodeJS, Express
 - 👯 I’m looking to collaborate on Educational Games / Apps
 - 🤔 I’m looking for help with Error :lol
 - 💬 Ask me about everything
