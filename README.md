@@ -5,9 +5,9 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning GO, Flutter, Loopback, React, Svelte, Vue, NodeJS, Express
+- 🌱 I’m currently learning RUST
 - 👯 I’m looking to collaborate on Educational Games / Apps
-- 🤔 I’m looking for help with Error :lol
+- 🤔 I’m looking for Fullstack / Mobile Project
 - 💬 Ask me about everything
-- 📫 How to reach me: taufiqtab@gmail.com
+- 📫 My Email : taufiqtab@gmail.com
 - ⚡ Fun fact: Code & Coffee
